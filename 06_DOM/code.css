@@ -1,0 +1,9 @@
+
+document.getElementsByClassName('heading') 
+document.querySelector('h1')
+document.querySelector('p:first-child')
+document.querySelector('ul')
+const myul = document.querySelector('ul')
+myul.querySelector('li')
+const turnGreen =myul.querySelector('li')
+turnGreen.style.backgroundColor = 'green'
