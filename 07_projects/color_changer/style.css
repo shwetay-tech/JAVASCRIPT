@@ -1,0 +1,25 @@
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+
+}
+body{
+    display:flex;
+    height: 100vh;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: sandybrown;
+}
+.box3{
+    background-color: rgb(233, 108, 108);
+}
+.box4{
+    background-color: pink;
+}
